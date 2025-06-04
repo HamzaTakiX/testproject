@@ -1,0 +1,16 @@
+# ✅ Cache Python
+__pycache__/
+*.py[cod]
+*.log
+
+# ✅ Fichiers d'environnement et archives
+*.zip
+.env
+venv/
+
+# ✅ Fichiers d'éditeur (non pertinents pour le code)
+.vscode/
+.idea/
+
+# ✅ Dossiers de debug
+.testoutput/
